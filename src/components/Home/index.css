@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: 'Roboto';
+}
+.card {
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
